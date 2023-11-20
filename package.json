@@ -1,0 +1,15 @@
+{
+  "name": "nord-style-vscode-pack",
+  "displayName": "nord-style-vscode-pack",
+  "description": "extension pack for theming for my current dot s",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
