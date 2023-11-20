@@ -9,7 +9,8 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "publisher.extensionName"
+  "extensionPack": [
+    "PKief.material-icon-theme",
+    "zhuangtongfa.Material-theme"
   ]
 }
